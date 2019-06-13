@@ -1,0 +1,3 @@
+[submodule "FASTX-Abi"]
+	path = FASTX-Abi
+	url = https://github.com/telatin/FASTX-Abi
